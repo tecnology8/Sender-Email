@@ -1,0 +1,9 @@
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\bin\Debug\SenderEmail.exe.config
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\bin\Debug\SenderEmail.exe
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\bin\Debug\SenderEmail.pdb
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\obj\Debug\SenderEmail.csprojResolveAssemblyReference.cache
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\obj\Debug\SenderEmail.Form1.resources
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\obj\Debug\SenderEmail.Properties.Resources.resources
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\obj\Debug\SenderEmail.csproj.GenerateResource.Cache
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\obj\Debug\SenderEmail.exe
+c:\users\ruddyenmanuel\documents\visual studio 2012\Projects\SenderEmail\SenderEmail\obj\Debug\SenderEmail.pdb
